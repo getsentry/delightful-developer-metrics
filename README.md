@@ -25,12 +25,20 @@ metrics.incr("drank-drinks", 1, tags={"kind": "coffee"})
 
 More docs: [Sending Metrics from Python](https://develop.sentry.dev/delightful-developer-metrics/sending-metrics-sdk/).
 
-## All The Docs
+## Links
+
+**Documentation:**
 
 * [The UI](https://develop.sentry.dev/delightful-developer-metrics/ui/)
 * [General Overview](https://develop.sentry.dev/delightful-developer-metrics/)
 * [Sending Metrics from Python](https://develop.sentry.dev/delightful-developer-metrics/sending-metrics-sdk/).
 * [General Overview](https://develop.sentry.dev/delightful-developer-metrics/)
+* [Nitty gritty internals](https://develop.sentry.dev/sdk/metrics/)
+
+**Engage and Give Feedback:**
+
+* [Discord](https://discord.gg/sentry) (`#custom-metrics`)
+* [GitHub Discussion](https://github.com/getsentry/sentry/discussions/58584)
 
 ## Samples
 
