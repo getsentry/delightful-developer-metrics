@@ -23,6 +23,8 @@ init("YOUR_DSN_HERE", _experiments={
 metrics.incr("drank-drinks", 1, tags={"kind": "coffee"})
 ```
 
+With a bit of delay you can see the data come in, in the "DDM" UI (pending imminent rename).
+
 More docs: [Sending Metrics from Python](https://develop.sentry.dev/delightful-developer-metrics/sending-metrics-sdk/).
 
 ## Links
@@ -31,7 +33,7 @@ More docs: [Sending Metrics from Python](https://develop.sentry.dev/delightful-d
 
 * [The UI](https://develop.sentry.dev/delightful-developer-metrics/ui/)
 * [General Overview](https://develop.sentry.dev/delightful-developer-metrics/)
-* [Sending Metrics from Python](https://develop.sentry.dev/delightful-developer-metrics/sending-metrics-sdk/).
+* [Python Metrics API](https://develop.sentry.dev/delightful-developer-metrics/sending-metrics-sdk/)
 * [General Overview](https://develop.sentry.dev/delightful-developer-metrics/)
 * [Nitty gritty internals](https://develop.sentry.dev/sdk/metrics/)
 
