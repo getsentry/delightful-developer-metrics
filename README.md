@@ -42,4 +42,4 @@ More docs: [Sending Metrics from Python](https://develop.sentry.dev/delightful-d
 
 ## Samples
 
-* [hello-python](python/main.py)
+* [hello-python](python/src/python_example/__init__.py)
