@@ -1,10 +1,10 @@
-# Delightful Developer Metrics
+# Sentry Developer Metrics
 
 Welcome to Sentry's custom metrics alpha.  This repository collects all the relevant information
 to get you started quickly including some samples.  We're going to keep this updated as more
 features become available.
 
-In order to use this, you need to be rolled into our alpha testing program.
+In order to use this, you need to be rolled into our alpha testing program. If you haven’t already, please sign up [here](https://sentry.io/lp/metrics/) and we’ll get you enrolled.
 
 ## Sending Metrics
 
