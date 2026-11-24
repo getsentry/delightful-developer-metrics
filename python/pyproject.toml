@@ -3,7 +3,7 @@ name = "python-example"
 version = "0.1.0"
 description = "Shows how to send metrics with Python"
 authors = [{ name = "Armin Ronacher", email = "armin@ronacher.eu" }]
-dependencies = ["sentry-sdk>=1.38.0"]
+dependencies = ["sentry-sdk>=3.0.0"]
 readme = "README.md"
 requires-python = ">= 3.8"
 
